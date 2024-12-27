@@ -18,6 +18,12 @@ This project implements a basic Lisp-inspired interpreter in Python using `lark`
 ## Requirements
 - Python 3.7+
 - `lark` library (`pip install lark`)
+- Vscode 2021
+
+---
+
+## Run
+type `python mini.py test_data.lsp` on terminal
 
 ---
 
