@@ -1,5 +1,4 @@
-# 2024_compiler_final
-# README for Mini Lisp Interpreter
+# 2024_compiler_final - Mini Lisp Interpreter
 
 ## Overview
 This project implements a basic Lisp-inspired interpreter in Python using `lark`. It supports arithmetic, logical operations, variable definitions, functions, conditionals, and printing. The interpreter parses code, builds an Abstract Syntax Tree (AST), and evaluates it.
@@ -19,6 +18,29 @@ This project implements a basic Lisp-inspired interpreter in Python using `lark`
 ## Requirements
 - Python 3.7+
 - `lark` library (`pip install lark`)
+
+---
+
+## Implementation
+### Basic
+
+- [x] **Syntax Validation** (10 分)
+- [x] **Print** (10 分)
+- [x] **Numerical Operations** (25 分
+- [x] **Logical Operations** (25 分)
+- [x] **if Expression** (8 分)
+- [x] **Variable Definition** (8 分)
+- [x] **Function** (8 分)
+- [x] **Named Function** (6 分)
+
+
+### Bonus
+- [ ] **Recursion** (5 分)
+- [x] **Type Checking** (5 分)
+- [ ] **Nested Function** (5 分)
+- [ ] **First-class Function** (5 分)
+
+
 
 ---
 
